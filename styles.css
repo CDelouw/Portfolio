@@ -1,0 +1,284 @@
+body {
+    font-family: 'Gotu', sans-serif;
+
+}
+
+a {
+    color: #112D4E;
+
+}
+
+footer {
+    background-color: #3F72AF;
+}
+
+h5 {
+    color: #4b70aa;
+}
+
+p {
+    color: #F9F7F7;
+}
+
+h6 {
+    line-height: 30px;
+}
+
+li {
+    font-size: 1.5rem;
+}
+
+hr {
+    border: 10px dotted #3F72AF;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+    background-color: #F9F7F7;
+}
+
+img {
+    border-radius: 15px;
+}
+
+/* Index Page */
+/* Navigation Bar */
+.logo_image {
+    width: 150px;
+}
+
+.navbar {
+    padding: 0 0 1rem;
+}
+
+.navbar_menu {
+    margin-left: 45%;
+}
+
+.navbar-brand {
+    font-family: 'Gotu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.nav-link {
+    font-family: 'Gotu', sans-serif;
+    color: #112D4E;
+}
+
+/*Welcome Container*/
+.welcome-section {
+    padding: 3% 25% 15%;
+    padding-bottom: 5%;
+    min-height: 300px;
+}
+
+.Welcome-picture {
+    width: 600px;
+    border-radius: 10px;
+}
+
+/*projects container*/
+.tile-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.tile-pic {
+    width: 325px;
+    border-radius: 10px;
+}
+
+.tile-text {
+    padding-top: 4%;
+}
+
+.projects-tiles {
+    text-align: center;
+    padding-bottom: 0;
+
+}
+
+.projects-container {
+    padding: 0 15% 15% !important;
+
+}
+
+/*Footer*/
+.bottom-div {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.social-link {
+    padding: 1%;
+}
+
+.social-icon {
+    width: 50px;
+}
+
+/* About me page */
+.wordcloud_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 75px;
+    border-radius: 15px;
+}
+
+.about_welcome {
+    text-align: center;
+    padding: 0 25% 25%;
+    padding-bottom: 50px;
+}
+
+.about_me_text {
+    text-align: left;
+    padding: 0 25% 25%;
+    padding-bottom: 60px;
+}
+
+.formation {
+    text-align: left;
+    padding: 0 25% 25%;
+    padding-bottom: 60px;
+}
+
+.work_xp {
+    text-align: left;
+    padding: 0 25% 25%;
+    padding-bottom: 60px;
+}
+
+.Google_badge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-bottom: 25px;
+}
+
+/*Projects*/
+.project_intro {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.encanto {
+    width: 700px;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.encanto-proto {
+    width: 700px;
+    border-radius: 15px;
+}
+
+.resp_list {
+    text-align: left;
+    padding: 0 45% 40%;
+    padding-bottom: 0px;
+}
+
+.research_tiles {
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 25px;
+}
+
+.research_tile {
+    padding: 3% 16% 16%;
+    padding-bottom: 5%;
+    min-height: 300px;
+    text-align: left;
+    padding-bottom: 0px;
+
+}
+
+.wireframes {
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.paper_wrfm {
+    width: 600px;
+}
+
+.ideas {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20px;
+}
+
+.bottom_top {
+    text-align: center;
+}
+
+.bottom_middle {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.mockups {
+    width: 350px;
+}
+
+.gif {
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.btn {
+    background: #3F72AF;
+    background-image: -webkit-linear-gradient(top, #3F72AF, #3F72AF);
+    background-image: -moz-linear-gradient(top, #3F72AF, #3F72AF);
+    background-image: -ms-linear-gradient(top, #3F72AF, #3F72AF);
+    background-image: -o-linear-gradient(top, #3F72AF, #3F72AF);
+    background-image: linear-gradient(to bottom, #3F72AF, #3F72AF);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Gotu', sans-serif;
+    color: #F9F7F7;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 75px;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+.mockups-case {
+    width: 700px;
+    padding-bottom: 50px;
+}
+
+
+.digital_wrfm {
+    width: 750px;
+}
