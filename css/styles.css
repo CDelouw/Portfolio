@@ -78,7 +78,7 @@ img {
 }
 
 .Welcome-picture {
-    width: 600px;
+    width: 100%;
     border-radius: 10px;
 }
 
@@ -89,7 +89,7 @@ img {
 }
 
 .tile-pic {
-    width: 325px;
+    width: 100%;
     border-radius: 10px;
 }
 
@@ -171,14 +171,14 @@ img {
 }
 
 .encanto {
-    width: 700px;
+    width: 30%;
     border-radius: 15px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
 .encanto-proto {
-    width: 700px;
+    width: 70%;
     border-radius: 15px;
 }
 
@@ -212,18 +212,38 @@ img {
 }
 
 .paper_wrfm {
-    width: 600px;
+    width: 70%;
+}
+
+.plan {
+    padding-top: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
 }
 
 .ideas {
+    width: 40%;
+}
+
+.prototype {
+    width: 70%;
+}
+
+.prototypes {
+    width: 50%;
+}
+
+.Usability {
     text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 20px;
 }
 
 .bottom_top {
     text-align: center;
+}
+
+.refining {
+    width: 40%;
 }
 
 .bottom_middle {
@@ -233,7 +253,7 @@ img {
 }
 
 .mockups {
-    width: 350px;
+    width: 80%;
 }
 
 .gif {
